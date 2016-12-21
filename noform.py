@@ -1,3 +1,4 @@
+
 # Script Name    : noform.py
 # Author         : johnny trevisani
 # Created        : 20 Dec 2016
@@ -36,6 +37,7 @@ Mn = input ("MANNERS Rating (1-5):")
 
 A = (float(Bg)*3 + float(Of)*2) / float(Ap) + ( float(Ag) / float(Pa) * 3 ) - float(M) * ( float(B) + float(Bl) - float(L) ) - (float(C)+float(P)) + (float(H)*2) + (- float(E) * float(R) ) - float(Mn) - float(S)*.5
       
+
 
 
 
